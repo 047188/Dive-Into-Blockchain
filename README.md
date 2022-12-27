@@ -11,7 +11,7 @@
 ## 理论基础：精诚所至，金石为开
 
 + **🔗[深入浅出，入门以太坊开发生态](https://github.com)**
-+ **🔗[深入以太坊，go-ethereum源码分析](https://github.com)**
++ **🔗[深入以太坊PoS，go-ethereum源码分析](https://github.com/DessertHeart/Dive-Into-Blockchain/tree/main/LearnBlockchain)**
 
 ## 智能合约安全：水能载舟，亦能覆舟
 
