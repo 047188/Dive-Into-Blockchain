@@ -144,7 +144,7 @@
 
 #### 3）RLP与[ABI-Encoding](https://me.tryblockchain.org/Solidity-abi-abstraction.html#toc_5)
 
-**应用二进制接口ABI（ Application Binary Interface）**是与合约交互的标准。 EVM使用 ABI 编码的数据来理解要执行字节码的哪一部分。合约交互只是以太上的一种交易。payload（要做什么） 位于transaction的`data`字段中。
+应用二进制接口ABI（ Application Binary Interface）是与合约交互的标准。 EVM使用 ABI 编码的数据来理解要执行字节码的哪一部分。合约交互只是以太上的一种交易。payload（要做什么） 位于transaction的`data`字段中。
 
 调用合约的用户通过 ABI-Encoding 对的输入参数和函数签名进行编码（当然也包括合约代码的输出参数，比如日志Log的data），并将其放在transaction的`data`字段中。之后队transaction进行签名作为所有权证明。最后，对整个transaction数据进行 RLP 编码，即可传递给EVM。
 
