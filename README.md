@@ -17,7 +17,7 @@
 
 + **🔗[Damn Vulnerable Defi 系列全解](https://github.com/DessertHeart/DiveIntoBlockchain/tree/main/safeBlockchain/DamnVulnerableDefi)**
 + **🔗[EVM puzzules 系列全解](https://github.com/DessertHeart/Dive-Into-Blockchain/tree/main/safeBlockchain/EVM_Puzzles)**
-+ **🔗[chainflag 系列全解](https://github.com/DessertHeart/Dive-Into-Blockchain/tree/main/safeBlockchain/Chainflag)**
++ **🔗[chainflag 系列全解(待完善)](https://github.com/DessertHeart/Dive-Into-Blockchain/tree/main/safeBlockchain/Chainflag)**
 
 ## 公链底层开发：知己知彼，百战不殆
 
