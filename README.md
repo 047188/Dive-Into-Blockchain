@@ -1,4 +1,4 @@
-# Dive into Blokchain🌟
+# 🌟 Dive into Blokchain
 
 旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀🚀🚀
 
