@@ -5,5 +5,9 @@
 ## Playground
 Visit https://github.com/fvictorio/evm-puzzles
 
+## Resolutions
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/93460127/210195233-47cb7845-dbf1-47a3-b6e5-1a8bed7b5a24.png">
+
+
 
 
